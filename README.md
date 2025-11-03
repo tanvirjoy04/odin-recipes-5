@@ -1,0 +1,1 @@
+Will create simple HTML framework of the front-end of a website, displaying simple text and images.
